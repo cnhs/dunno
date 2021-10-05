@@ -8,6 +8,7 @@ public class Player {
 	
 	// Attributes
 	String name;
+	Item[] inventory = new Item[3];
 
 	
 	
